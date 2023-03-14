@@ -1,2 +1,6 @@
 flask
 gunicorn
+gspread
+oauth2client
+lxml
+tchan
